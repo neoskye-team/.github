@@ -4,6 +4,4 @@ An engine made so you can worry about the actual game, and we'll do the rest.
 
 Further reading about the best game engine:
 - [Our website](https://neoskye-team.github.io)
-- [The neoskye runtime](https://github.com/neoskye-team/runtime)
-- [The neoskye compiler](https://github.com/neoskye-team/nsc)
-- [The neoskye editor](https://github.com/neoskye-team/atelier)
+- [The main repo](https://github.com/neoskye-team/neoskye)
